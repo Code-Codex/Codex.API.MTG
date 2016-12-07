@@ -1,5 +1,5 @@
 ﻿# Codex.API.MTG
-.NET api for magicthegathering.io
+.NET api for [magicthegathering.io](http://magicthegathering.io/)
 
 This API is built using .NET Core which is a new cross platform (Windows, Linux, Mac) implementation of Windows .NET runtime.
 More information on .NET Core can be found on their github repository at [Github](https://github.com/dotnet/core)
